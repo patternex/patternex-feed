@@ -1,4 +1,4 @@
-# Domain detection feed
+# PatternEx domain feed
 
 ![Domain detection initiative](figures/dd_logo.jpg)
 

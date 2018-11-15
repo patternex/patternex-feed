@@ -23,7 +23,9 @@ detection_date,domain,category,score
 The feed is to be used at the user’s discretion; it can be used for any activity ranging from ML experimentation, threat hunting, or live detection. We encourage users to check whether the correlation of the feed with the network traffic logs of their organization results in malicious findings missed by existing defenses. It has systematically been the case for us and we would love to hear other success (or failure) stories! 
 
 ## Initial stats of the feed: 
-As of the day of the writing this post (2018-11-14), the feed contains 197.6K domains. Additional stats of the feed and the results of a comparative analysis will be presented at IEEE BigData conference in December 2018 (http://cci.drexel.edu/bigdata/bigdata2018/). 
+As of the day of the writing this document (2018-11-14), the feed contains 197.6K malicious domains. These domains are retrieved from the zone files of multiple top level domains (.bid, .date, .download, .fun, .host, .icu, .loan, .online, .pro, .review, .site, .space, .stream, .tech, .top, .trade, .website, .win, and .xyz) available via the Centralized Zone Data service (https://czds.icann.org/en). 
+
+Additional stats of the feed and the results of a comparative analysis will be presented at IEEE BigData conference in December 2018 (http://cci.drexel.edu/bigdata/bigdata2018/). 
 
 ## Call to action: 
 We look forward to expanding the feed by either analyzing other open data sources, or by detecting other categories of malicious domains. Either way, if you would like to contribute to this project please do get in touch!  

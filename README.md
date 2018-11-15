@@ -2,7 +2,7 @@
 
 ![Domain detection initiative](figures/dd_logo.jpg)
 
-We provide a list of malicious domains identified with one of our machine learning models. The list is updated on a daily basis and reports malicious domains weeks before they are flagged on any other blacklist. The feed is released as a set of csv files, each with a maximum of 100K domains, where each line shows:
+We provide a list of malicious domains identified with one of the machine learning models developed at PatternEx. The list is updated on a daily basis and reports malicious domains weeks before they are flagged on any other blacklist. The feed is released as a set of csv files, each with a maximum of 100K domains, where each line shows:
 - the detection date (yyyy-mm-dd)
 - the reported domain (for instance windowdowngradegreataflash[.]icu) 
 - the category (currently we are reporting social engineering domains)

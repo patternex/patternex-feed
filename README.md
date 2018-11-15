@@ -1,8 +1,10 @@
-# Domain detection feed
+# Domain detection Initiative
 
-We identify a large number of malicious domains weeks before they are reported on any blacklist.
+We continuously analyze the zone files of several top level domains to identify malicious domains weeks before they are reported on any other blacklist.
 
-## Feed description: 
+![Domain detection initiative](figures/dd_logo.jpg)
+
+## Domain detection feed: 
 The feed is
 <snippet>
 copy/paste recent segment of the feed

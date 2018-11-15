@@ -25,7 +25,7 @@ The feed is to be used at the user’s discretion; it can be used for any activi
 ## Initial stats of the feed: 
 As of the day of the writing this document (2018-11-14), the feed contains 197.6K malicious domains. These domains are retrieved from the zone files of multiple top level domains (.bid, .date, .download, .fun, .host, .icu, .loan, .online, .pro, .review, .site, .space, .stream, .tech, .top, .trade, .website, .win, and .xyz) available via the Centralized Zone Data service (https://czds.icann.org/en). 
 
-Additional stats of the feed and the results of a comparative analysis will be presented at IEEE BigData conference in December 2018 (http://cci.drexel.edu/bigdata/bigdata2018/). 
+Additional stats of the feed and the results of a comparative analysis will be presented at IEEE BigData in December 2018 (http://cci.drexel.edu/bigdata/bigdata2018/). 
 
 ## Call to action: 
 We look forward to expanding the feed by either analyzing other open data sources, or by detecting other categories of malicious domains. Either way, if you would like to contribute to this project please do get in touch!  

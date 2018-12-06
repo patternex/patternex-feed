@@ -20,7 +20,7 @@ detection_date,domain,category,score
 ```
 
 ## How to use the feed? 
-The feed is available for non-commercial use and without warranty; it may be used for any activity ranging from AI/ML learning, threat hunting, or live detection. We encourage users to check whether the correlation of the PatternEx feed with the network traffic logs of their organization results in malicious findings missed by existing organizational security defenses. We would love to hear your success (or failure) stories! 
+The feed is available for non-commercial use and without warranty; it may be used for any activity ranging from AI/ML, threat hunting, or live detection. We encourage users to check whether the correlation of the PatternEx feed with the network traffic logs of their organization results in malicious findings missed by existing organizational security defenses. We would love to hear your success (or failure) stories! 
 
 ## Initial stats of the feed: 
 As of the day of the writing this document (2018-11-14), the feed contains 197.6K malicious domains. These domains are retrieved from the zone files of multiple top level domains (.bid, .date, .download, .fun, .host, .icu, .loan, .online, .pro, .review, .site, .space, .stream, .tech, .top, .trade, .website, .win, and .xyz) available via the Centralized Zone Data Service (https://czds.icann.org/en). 
